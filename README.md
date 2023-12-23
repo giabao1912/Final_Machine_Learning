@@ -5,12 +5,14 @@
 3. 520H0393	Ngô Trọng Nhân
 
 ## Work division: 
-Trần Lê Gia Bảo  :	1, 2.2, 2.4 (Overfiting of model 2.2)
-Nguyễn Quỳnh Như:	  1, 2.1, 2.5
-Ngô Trọng Nhân  :	  1, 2.3, 2.4 (Overfitting of model 2.3)
+1. Trần Lê Gia Bảo   :	1, 2.2, 2.4 (Overfiting of model 2.2)
+2. Nguyễn Quỳnh Như  :	  1, 2.1, 2.5
+3. Ngô Trọng Nhân    :	  1, 2.3, 2.4 (Overfitting of model 2.3)
 
 ## Dataset: Titanic 
 https://www.kaggle.com/c/titanic?fbclid=IwAR0TAODX0ilUTH7r5cEOSYUOV94aqthJZr2bTiWemXkflkBonPu1tkyH018
+
+ Predict survival on the Titanic
 
 ## Requirement: 
 Bài 1 (3 điểm): làm riêng từng người
