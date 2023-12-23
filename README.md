@@ -10,7 +10,7 @@
 3. Ngô Trọng Nhân    :	  1, 2.3, 2.4 (Overfitting of model 2.3)
 
 ## Dataset: Titanic 
-https://www.kaggle.com/c/titanic?fbclid=IwAR0TAODX0ilUTH7r5cEOSYUOV94aqthJZr2bTiWemXkflkBonPu1tkyH018
+https://www.kaggle.com/c/titanic
 
  Predict survival on the Titanic
 
